@@ -1,7 +1,7 @@
 package main 
 
 import "fmt"
-import "testpricate/util"
+import "github.com/Anshumakkar/testpricate/util"
 
 func main(){
   fmt.Println("Hello this is private repository")
